@@ -1,4 +1,4 @@
-manuels12README.md 
+ManuelStudentREADME.md
 ### Sean Bienvenidos Compañeros ! 😎
 
 Es un placer recibirlos en este perfil el cual pertenece a un joven principiante en programacion, mi nombre es Manuel López.😀🧠
