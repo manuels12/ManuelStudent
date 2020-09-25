@@ -2,7 +2,7 @@
 
 Es un placer recibirlos en este perfil el cual pertenece a un joven principiante en programacion, mi nombre es Manuel López.😀🧠
 
-| Aptitudes |
+|**Aptitudes** |
 
   - Estoy dispuesto a recibir comentarios constructivos y seguir con mi preparacion para aumentar mis conocimientos y capacidades. 
   - Me considero una persona muy analitica y de facil aprendizaje abierto a nuevas ideas con mucha versatilidad.
@@ -10,7 +10,7 @@ Es un placer recibirlos en este perfil el cual pertenece a un joven principiante
   - Habil en la resolucion de problemas y con experiencia trabajando bajo presion. 
 
 
-| Conocimientos |
+| **Conocimientos** |
 
   - Fundamentos de Programación.
   - Programación Orientada a Objetos.
@@ -18,7 +18,7 @@ Es un placer recibirlos en este perfil el cual pertenece a un joven principiante
   - Tópicos Avanzadas de Programación. 
 
 
-| Objetivos Personales |
+| **Objetivos Personales** |
 
   - Concluir satisfactoriamente mis estudios profesionalmente en Ingenieria en Sistemas Computacionales. 
   - Impulsar y reforzar mis conomientos con diplomados. 
@@ -30,7 +30,7 @@ Es un placer recibirlos en este perfil el cual pertenece a un joven principiante
   
   
   
-  | Por ultimo quiero añadir mi carga de materias del semestre actual |
+  | **Por ultimo quiero añadir mi carga de materias del semestre actual** |
   
   
   - Sexto Semestre:
