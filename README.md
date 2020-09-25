@@ -2,7 +2,7 @@
 
 Es un placer recibirlos en este perfil el cual pertenece a un joven principiante en programacion, mi nombre es Manuel López.😀🧠
 
-|**Aptitudes** |
+| **Aptitudes** |
 
   - Estoy dispuesto a recibir comentarios constructivos y seguir con mi preparacion para aumentar mis conocimientos y capacidades. 
   - Me considero una persona muy analitica y de facil aprendizaje abierto a nuevas ideas con mucha versatilidad.
