@@ -30,7 +30,7 @@ Es un placer recibirlos en este perfil el cual pertenece a un joven principiante
   
   
   
-  | Por ultimo quiero añadir mi carga de materia del semestre actual |
+  | Por ultimo quiero añadir mi carga de materias del semestre actual |
   
   
   - Sexto Semestre:
