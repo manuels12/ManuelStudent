@@ -23,7 +23,7 @@ Es un placer recibirlos en este perfil el cual pertenece a un joven principiante
   - Concluir satisfactoriamente mis estudios profesionalmente en Ingenieria en Sistemas Computacionales. 
   - Impulsar y reforzar mis conomientos con diplomados. 
   - Abrir mis horizontes con nuevos retos en progrmacion y todo lo relacionado al area. 
-  - Formar un equipo de trabajo para la realizacion de software. 
+  - Formar un equipo de trabajo para el desarrollo de software. 
   
   
   
